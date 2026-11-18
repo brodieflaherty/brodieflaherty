@@ -7,7 +7,7 @@ Computer Science student at Northeastern University (Honors Program). I'm intere
 <ins>**PL Match Predictor:**</ins> Building a Premier League match-winner predictor using team and player statistics
 Studying machine learning and large language models outside the classroom
 Featured Projects
-Premier League Match Predictor Predicts match outcomes from historical team and player data. Python, pandas, scikit-learn\n
+Premier League Match Predictor Predicts match outcomes from historical team and player data. Python, pandas, scikit-learn
 
 <ins>**Digit Dashboard:**</ins> Built a CAN bus signal generator based on ECU documentation and a decoder that translates those signals into live readouts on a Raspberry Pi-powered LED dashboard. Raspberry Pi, CAN bus
 
