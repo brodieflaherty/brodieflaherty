@@ -19,6 +19,7 @@ Python · Java · Git · Jupyter · Raspberry Pi
 ## Contact
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/brodie-flaherty-390b23346)
+
 Email: Flaherty.bro@northeastern.edu
 
 Open to Summer 2027 internships and Spring 2028 co-op opportunities in software engineering and machine learning.
