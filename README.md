@@ -1,16 +1,25 @@
-## Hi there 👋
+## Brodie Flaherty
 
-<!--
-**brodieflaherty/brodieflaherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Northeastern University (Honors Program). I'm interested in machine learning, sports analytics, and software development.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ins>**PL Match Predictor:**</ins> Building a Premier League match-winner predictor using team and player statistics
+Studying machine learning and large language models outside the classroom
+Featured Projects
+Premier League Match Predictor Predicts match outcomes from historical team and player data. Python, pandas, scikit-learn\n
+
+<ins>**Digit Dashboard:**</ins> Built a CAN bus signal generator based on ECU documentation and a decoder that translates those signals into live readouts on a Raspberry Pi-powered LED dashboard. Raspberry Pi, CAN bus
+
+
+## Tools
+
+Python · Java · Git · Jupyter · Raspberry Pi
+
+## Contact
+
+LinkedIn: [www.linkedin.com/in/brodie-flaherty-390b23346](url)\
+Email: Flaherty.bro@northeastern.edu
+
+Open to Summer 2027 internships and Spring 2028 co-op opportunities in software engineering and machine learning.
+
